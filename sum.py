@@ -9,3 +9,8 @@ a=12;
 b=67;
 c=a+b;
 print(sum);
+
+# Output:
+# enter the first number12
+# enter the second number34
+# sum of two numbers is 46
