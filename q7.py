@@ -16,3 +16,10 @@ elif percentage>=50:
     print("grade is D");
 else:
     print("fail");
+
+#output
+# enter the percentage of student:85
+# grade is A
+# enter the percentage of student:45
+# fail
+# enter the percentage of student:95
