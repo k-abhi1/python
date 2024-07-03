@@ -6,3 +6,5 @@ if profit>0:
     print("profit is made");
 else:
     print("loss is made");
+
+
