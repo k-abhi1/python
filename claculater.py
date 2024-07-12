@@ -18,3 +18,6 @@ elif(opr=='/'):
     print("div of two numbers is",div);
 else:
     print("invalid operator");
+
+
+
