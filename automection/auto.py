@@ -6,6 +6,7 @@ import pyautogui as pi
 
 guviLink = "https://www.guvi.in/referral/l/iswca"
 name = "Meghna Kumari"
+
 mail = "trialmail@gmai.com"
 phoneNo = "9193929458"
 
