@@ -74,3 +74,12 @@ for idx, (title, content) in enumerate(slides_content, start=1):
 c.save()
 
 pdf_path
+
+
+
+
+
+
+
+
+
